@@ -5,6 +5,7 @@ import About from '@/components/About';
 import Featured from '@/components/Featured';
 import Recommendation from '@/components/Recommendation';
 import Find from '@/components/Find';
+import Testimonials from '@/components/Testimonials';
 
 export default function Home() {
 	return (
@@ -15,6 +16,7 @@ export default function Home() {
 			<About />
 			<Recommendation />
 			<Find />
+			<Testimonials />
 			<Footer />
 			<div className='h-[4000px]'></div>
 		</main>

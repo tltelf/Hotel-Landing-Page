@@ -9,7 +9,7 @@ const hotelData = [
 	{
 		image: '/find/hotel-1.png',
 		name: 'Hotel De Luna',
-		location: 'Singapore',
+		location: 'Pattaya',
 	},
 	{
 		image: '/find/hotel-2.png',
@@ -19,12 +19,12 @@ const hotelData = [
 	{
 		image: '/find/hotel-3.png',
 		name: 'Delight Hotel',
-		location: 'Singapore',
+		location: 'Bali',
 	},
 	{
 		image: '/find/hotel-4.png',
 		name: 'Mercusuar Hotel',
-		location: 'Singapore',
+		location: 'Sydney',
 	},
 ];
 
